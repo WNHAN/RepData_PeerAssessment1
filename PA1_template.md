@@ -6,7 +6,7 @@ output:
   html_document: 
     keep_md: yes
 ---
-
+Adding some content to illustrate git / github integration from Windows 10
 
 ```
 ## Warning: package 'dplyr' was built under R version 3.5.3
