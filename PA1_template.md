@@ -6,7 +6,7 @@ output:
   html_document: 
     keep_md: yes
 ---
-Adding some content to illustrate git / github integration from Windows 10
+RepData_PeerAssessment1
 
 ```
 ## Warning: package 'dplyr' was built under R version 3.5.3
@@ -42,9 +42,11 @@ dir()
 ```
 
 ```
-## [1] "activity.csv"                "PA1_template.Rmd"           
-## [3] "repdata_data_activity.zip"   "RepData_PeerAssessment1"    
-## [5] "Reproducible Research.Rproj"
+##  [1] "activity.csv"                  "activity.zip"                 
+##  [3] "doc"                           "instructions_fig"             
+##  [5] "PA1_template.html"             "PA1_template.md"              
+##  [7] "PA1_template.Rmd"              "README.md"                    
+##  [9] "repdata_data_activity.zip"     "RepData_PeerAssessment1.Rproj"
 ```
 
 ## Reading activity.csv
