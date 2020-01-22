@@ -9,7 +9,7 @@ output:
 
 ```{r, echo = FALSE}
 knitr::opts_chunk$set(
-  fig.path = "README_figs/README-"
+  fig.path = "PA1_template_files/figure-html"
 )
 library(dplyr)
 ```

@@ -95,7 +95,7 @@ hist(totalstepsperday$Totalsteps,
      col = 8)
 ```
 
-![](README_figs/README-histogram-1.png)<!-- -->
+![](PA1_template_files/figure-htmlhistogram-1.png)<!-- -->
 
 
 ```r
@@ -137,7 +137,7 @@ plot(averagestepsbyday$interval,averagestepsbyday$averagesteps,type="l",
      main="Average Number of Steps Taken during 5-Minute Interval")
 ```
 
-![](README_figs/README-unnamed-chunk-6-1.png)<!-- -->
+![](PA1_template_files/figure-htmlunnamed-chunk-6-1.png)<!-- -->
 
 
 ```r
@@ -205,7 +205,7 @@ hist(fillstepsperday$TotalSteps,
      col=8)
 ```
 
-![](README_figs/README-unnamed-chunk-10-1.png)<!-- -->
+![](PA1_template_files/figure-htmlunnamed-chunk-10-1.png)<!-- -->
 
 
 ```r
@@ -279,6 +279,6 @@ ggplot(data=weekdayfilled, aes(x=interval, y=averagesteps)) +
   theme(plot.title = element_text(hjust=0.5))
 ```
 
-![](README_figs/README-unnamed-chunk-13-1.png)<!-- -->
+![](PA1_template_files/figure-htmlunnamed-chunk-13-1.png)<!-- -->
 
 
