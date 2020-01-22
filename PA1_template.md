@@ -42,10 +42,8 @@ dir()
 ```
 
 ```
-## [1] "activity.csv"              "PA1_template.html"        
-## [3] "PA1_template.md"           "PA1_template.Rmd"         
-## [5] "PA1_template_files"        "README_figs"              
-## [7] "repdata_data_activity.zip"
+## [1] "activity.csv"              "PA1_template.Rmd"         
+## [3] "repdata_data_activity.zip"
 ```
 
 ## Reading activity.csv
